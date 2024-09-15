@@ -1,6 +1,3 @@
-# Path Finding Algorithms on a 2D Grid
-## How To Compile
-You can modify the CMakeLists.txt and the batch script files according to your system to compile and run the application.
 ## How To Use The Application
 
 ![alt text](https://github.com/abgq/pathFinding/blob/master/image.png?raw=true)
